@@ -1,3 +1,10 @@
+/**
+* Java Basic. Homework #1
+*
+* @author Maksym_Litokho
+* @version 5.9.2022
+*
+*/
 class HW01 {
     public static void main(String[] args) {
         // task 1
