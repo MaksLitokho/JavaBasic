@@ -2,7 +2,7 @@
 * Java Basic. Homework #1
 *
 * @author Maksym_Litokho
-* @version 5.9.2022
+* @version 7.9.2022
 *
 */
 class HW01 {
