@@ -22,5 +22,9 @@ class HW01 {
         System.out.printf("%d - %d = %d\n", a, b, a - b);
         System.out.printf("%d * %d = %d\n", a, b, a * b);
         System.out.printf("%d / %d = %f\n", a, b, (float)a / b);
-    }
+        
+        //3
+        int[] array = {2, 4, 9, 6, 1};
+        System.out.printf("[%d, %d, %d, %d, %d]\n", array[0], array[1], array[2], array[3], array[4]);
+        }
 }
